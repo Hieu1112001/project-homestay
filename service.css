@@ -1,0 +1,142 @@
+.body-content{
+    background-color:rgb(244,239,238) ;
+}
+
+
+.body-main .service-main{
+    background-color: rgb(244,239,238);
+}
+
+.service-main .restaurant{
+    padding-top: 55px;
+    margin-bottom: 80px;
+
+}
+
+.restaurant img{
+    position: relative;
+    width: 35%;
+    left: 12%;
+}
+
+.restaurant .restaurant-info{
+    background-color: #fff;
+    width: fit-content;
+    position: absolute;
+    top: 123%;
+    left: 43%;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+.restaurant-info h4{
+    width: fit-content;
+    text-transform: capitalize;
+    font-weight: 300;
+    margin-bottom: 18px;
+    font-size: 25px;
+}
+
+.restaurant-info p{
+    width: 470px;
+    font-family: 'monica-ext-font_YIBBBFG';
+    font-weight: 300;
+    line-height: 1.5;
+}  
+
+.service-massage{
+    margin-bottom: 80px;
+}
+
+
+.service-massage img{
+    width: 30%;
+    position: relative;
+    left: 41%;
+}
+
+.service-massage-info{
+    background-color: #fff;
+    width: 363px;
+    position: absolute;
+    top: 186%;
+    left: 66%;
+    padding: 73px 30px;
+}
+
+.service-massage-info h4{
+    font-size: 25px;
+    text-transform: capitalize;
+    font-weight: 300;
+    width: fit-content;
+    margin-bottom: 10px;
+}
+
+.service-massage-info p{
+    width: 274px;
+    font-family: 'monica-ext-font_YIBBBFG';
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.fittness{
+    background-color: #fff;
+    position: absolute;
+    top: 237%;
+    padding: 80px 50px;
+    left: 41%;
+}
+
+.fittness h4{
+    width: fit-content;
+    text-transform: capitalize;
+    font-weight: 300;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.fittness p{
+    width: 460px;
+    font-family: 'monica-ext-font_YIBBBFG';
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+
+/*  */
+
+.sixe-picture{
+    position: relative;
+    width: 35%;
+    left: 12%;
+}
+
+.width{
+    width: fit-content;
+}
+
+.relax-content{
+    background-color: #fff;
+    width: fit-content;
+    position: absolute;
+    top: 304%;
+    padding: 80px 30px;
+    left: 72%;
+}
+
+.relax-content h4{
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: 300;
+    font-family: monospace;
+    text-transform: capitalize;
+}
+
+.relax-content p{
+    width: 332px;
+    font-family: 'monica-ext-font_YIBBBFG';
+    font-weight: 300;
+    line-height: 1.5;
+}
